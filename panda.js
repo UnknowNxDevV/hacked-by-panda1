@@ -27,4 +27,4 @@ client.on("message", message => {
 
 client.login("Token Lera Dabne")
 
-////Ano Up////
+////Panda Up Up////
